@@ -1,5 +1,5 @@
 # My-Medium-Articles
-All of my medium articles which guarantees that everybody has free access due to friend links
+All of my medium articles with friend links attached.
 
 1. https://medium.com/p/icc-2019-cricket-world-cup-prediction-using-machine-learning-7c42d848ace1?source=email-c3f5233f3441--writer.postDistributed&sk=9d0b05e9cccda139ccc1b954db167da3
 
