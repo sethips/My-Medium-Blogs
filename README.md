@@ -1,7 +1,7 @@
 # My-Medium-Articles
 All of my medium articles which guarantees that everybody has free access due to friend links
 
-https://medium.com/p/icc-2019-cricket-world-cup-prediction-using-machine-learning-7c42d848ace1?source=email-c3f5233f3441--writer.postDistributed&sk=9d0b05e9cccda139ccc1b954db167da3
+1. [https://medium.com/p/icc-2019-cricket-world-cup-prediction-using-machine-learning-7c42d848ace1?source=email-c3f5233f3441--writer.postDistributed&sk=9d0b05e9cccda139ccc1b954db167da3](ICC 2019 Cricket World Cup Prediction using Machine Learning).
 
 https://medium.com/p/25-useful-python-snippets-to-help-in-your-day-to-day-work-d59c636ec1b?source=email-c3f5233f3441--writer.postDistributed&sk=2d3815314207a39ca86ee8014819545e
 
