@@ -1,6 +1,7 @@
 # My-Medium-Blogs
-All of my medium blogs with friend links attached. For more such blogs, visit my medium profile https://medium.com/@abhinav.sagar
-
+All of my medium blogs with friend links attached. 
+For more such blogs, feel free to visit my medium profile https://medium.com/@abhinav.sagar.
+.
 1. [ICC 2019 Cricket World Cup Prediction using Machine Learning](https://medium.com/p/icc-2019-cricket-world-cup-prediction-using-machine-learning-7c42d848ace1?source=email-c3f5233f3441--writer.postDistributed&sk=9d0b05e9cccda139ccc1b954db167da3).
 
 2. [25 Useful Python Snippets to Help in Your Day-to-Day Work](https://medium.com/p/25-useful-python-snippets-to-help-in-your-day-to-day-work-d59c636ec1b?source=email-c3f5233f3441--writer.postDistributed&sk=2d3815314207a39ca86ee8014819545e).
