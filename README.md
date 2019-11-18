@@ -1,7 +1,7 @@
 # My-Medium-Articles
 All of my medium articles with friend links attached.
 
-Check out the corresponding medium blog post [ICC 2019 Cricket World Cup Prediction using Machine Learning](https://medium.com/p/icc-2019-cricket-world-cup-prediction-using-machine-learning-7c42d848ace1?source=email-c3f5233f3441--writer.postDistributed&sk=9d0b05e9cccda139ccc1b954db167da3).
+1. [ICC 2019 Cricket World Cup Prediction using Machine Learning](https://medium.com/p/icc-2019-cricket-world-cup-prediction-using-machine-learning-7c42d848ace1?source=email-c3f5233f3441--writer.postDistributed&sk=9d0b05e9cccda139ccc1b954db167da3).
 
 1. https://medium.com/p/icc-2019-cricket-world-cup-prediction-using-machine-learning-7c42d848ace1?source=email-c3f5233f3441--writer.postDistributed&sk=9d0b05e9cccda139ccc1b954db167da3
 
