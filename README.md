@@ -1,6 +1,5 @@
 # My-Medium-Blogs
 All of my medium blogs with friend links attached. 
-For more such blogs, feel free to visit my medium profile https://medium.com/@abhinav.sagar.
 
 1. [ICC 2019 Cricket World Cup Prediction using Machine Learning](https://medium.com/p/icc-2019-cricket-world-cup-prediction-using-machine-learning-7c42d848ace1?source=email-c3f5233f3441--writer.postDistributed&sk=9d0b05e9cccda139ccc1b954db167da3).
 
@@ -41,6 +40,8 @@ For more such blogs, feel free to visit my medium profile https://medium.com/@ab
 19. [Deep Learning for Detecting Pneumonia from X-ray Images](https://medium.com/p/deep-learning-for-detecting-pneumonia-from-x-ray-images-fc9a3d9fdba8?source=email-c3f5233f3441--writer.postDistributed&sk=fc89a046b5dcdda696aaeba7242b5e15).
 
 20. [How to Easily Deploy Machine Learning Models Using Flask](https://medium.com/p/how-to-easily-deploy-machine-learning-models-using-flask-b95af8fe34d4?source=email-c3f5233f3441--writer.postDistributed&sk=9db80eba5a150458734179050ddcab1c).
+
+For more such blogs, feel free to visit my medium profile https://medium.com/@abhinav.sagar.
 
 
 
