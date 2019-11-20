@@ -1,5 +1,5 @@
 # My-Medium-Blogs
-All of my medium blogs with friend links attached. 
+All of my medium blogs with friend links attached.This gives everyone free access to my stories   even if you’re not a subscribed Medium member and have already read all the complimentary stories for the month.
 
 1. [ICC 2019 Cricket World Cup Prediction using Machine Learning](https://medium.com/p/icc-2019-cricket-world-cup-prediction-using-machine-learning-7c42d848ace1?source=email-c3f5233f3441--writer.postDistributed&sk=9d0b05e9cccda139ccc1b954db167da3).
 
