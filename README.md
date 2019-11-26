@@ -45,6 +45,8 @@ All of my medium blogs with friend links attached.This gives everyone free acces
 
 21. [How to Easily Deploy Machine Learning Models Using Flask](https://medium.com/p/how-to-easily-deploy-machine-learning-models-using-flask-b95af8fe34d4?source=email-c3f5233f3441--writer.postDistributed&sk=9db80eba5a150458734179050ddcab1c).
 
+22. [5 Techniques to Prevent Overfitting in Neural Networks](https://towardsdatascience.com/5-techniques-to-prevent-overfitting-in-neural-networks-e05e64f9f07?source=friends_link&sk=de78ba0f1271bcc0889f92f9250e7154).
+
 For more such blogs, feel free to visit my medium profile https://medium.com/@abhinav.sagar.
 
 
