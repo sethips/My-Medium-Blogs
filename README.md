@@ -47,6 +47,10 @@ All of my medium blogs with friend links attached.This gives everyone free acces
 
 22. [5 Techniques to Prevent Overfitting in Neural Networks](https://towardsdatascience.com/5-techniques-to-prevent-overfitting-in-neural-networks-e05e64f9f07?source=friends_link&sk=de78ba0f1271bcc0889f92f9250e7154).
 
+23. [An End to End Guide for Getting Started with Pandas](https://towardsdatascience.com/an-end-to-end-guide-for-getting-started-with-pandas-e401b9ffc256?source=friends_link&sk=cb1f0d46f142cbe86f4119b581aae636).
+
+24. [Deep Learning for Ship Detection and Segmentation](https://towardsdatascience.com/deep-learning-for-ship-detection-and-segmentation-71d223aca649?source=friends_link&sk=2ce4302f0dc2ba0554a29aa13c3c5093).
+
 For more such blogs, feel free to visit my medium profile https://medium.com/@abhinav.sagar.
 
 
