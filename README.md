@@ -1,5 +1,5 @@
 # My-Medium-Blogs
-All of my medium blogs with friend links attached.This gives everyone free access to my stories   even if you’re not a subscribed Medium member and have already read all the complimentary stories for the month.
+All of my medium blogs at https://medium.com/@abhinav.sagar with friend links attached.This gives everyone free access to my stories   even if you’re not a subscribed Medium member and have already read all the complimentary stories for the month.
 
 1. [ICC 2019 Cricket World Cup Prediction using Machine Learning](https://medium.com/p/icc-2019-cricket-world-cup-prediction-using-machine-learning-7c42d848ace1?source=email-c3f5233f3441--writer.postDistributed&sk=9d0b05e9cccda139ccc1b954db167da3).
 
@@ -51,7 +51,34 @@ All of my medium blogs with friend links attached.This gives everyone free acces
 
 24. [Deep Learning for Ship Detection and Segmentation](https://towardsdatascience.com/deep-learning-for-ship-detection-and-segmentation-71d223aca649?source=friends_link&sk=2ce4302f0dc2ba0554a29aa13c3c5093).
 
-For more such blogs, feel free to visit my medium profile https://medium.com/@abhinav.sagar.
+25. [How to Train Your Self Driving Car Using Deep Learning](https://towardsdatascience.com/how-to-train-your-self-driving-car-using-deep-learning-ce8ff76119cb?source=friends_link&sk=b7d7dc697857933a5ce3f06753df6b33).
 
+26. [Multi Class Object Classification for Retail Products](https://towardsdatascience.com/multi-class-object-classification-for-retail-products-aa4ecaaaa096?source=friends_link&sk=a09cd7d1715635d2519b1f10a3bf06f6).
 
+27. [One-Stop Guide to OpenCV](https://medium.com/datadriveninvestor/one-stop-guide-to-opencv-79091091944e?source=friends_link&sk=4650869378ec7c5957e14d6bbe175774).
 
+28. [Pedestrian Tracking in Real-Time Using YOLOv3](https://towardsdatascience.com/pedestrian-tracking-in-real-time-using-yolov3-33439125efdf?source=friends_link&sk=5bb1534cbb9238e6ac8ab63c8dc1e8cc).
+
+29. [Deep Reinforcement Learning Tutorial with Open AI Gym](https://towardsdatascience.com/deep-reinforcement-learning-tutorial-with-open-ai-gym-c0de4471f368?source=friends_link&sk=551e54b158646016985ad96fc3394065).
+
+30. [Mask R-CNN for Self Driving Cars](https://towardsdatascience.com/mask-r-cnn-for-self-driving-cars-7d254f3c7b3a?source=friends_link&sk=6b70504fa2c5113380806678da4efe0f).
+
+31. [Transfer Learning for Image Classification in Keras](https://towardsdatascience.com/transfer-learning-for-image-classification-in-keras-5585d3ddf54e?source=friends_link&sk=02f8e70edc72745a03ec163c1563fd01).
+
+32. [Reinforcement Learning Tutorial with Open AI Gym-2](https://towardsdatascience.com/reinforcement-learning-tutorial-with-open-ai-gym-6215a7a15970?source=friends_link&sk=0905a21880164593642098a3e13282c6).
+
+33. [Reinforcement Learning Tutorial with Open AI Gym-1](https://towardsdatascience.com/reinforcement-learning-tutorial-with-open-ai-gym-9b11f4e3c204?source=friends_link&sk=90b803acbde63c019afd073ffcf8dc1f).
+
+34. [Object Detection Using Yolo in Google Colab](https://towardsdatascience.com/object-detection-using-yolo-in-google-colab-7d5fe7db3485?source=friends_link&sk=75f47fe71406a6f8d23b7705d921e640).
+
+35. [How to Write a Chess Game from Scratch in Java](https://medium.com/@abhinav.sagar/how-to-write-a-chess-game-from-scratch-in-java-e14c69161493?source=friends_link&sk=89dde8418d96448fe7dd23d8f2f7f53c).
+
+36. [Transfer Learning vs Training from Scratch in Keras](https://towardsdatascience.com/transfer-learning-vs-training-from-scratch-in-keras-a7f92fb97dca?source=friends_link&sk=0746fd184354e5309f1cc95a4a655fcf).
+
+37. [How to Scrape a Website Easy and Fast](https://medium.com/datadriveninvestor/how-to-scrape-a-website-easy-and-fast-30c151ca2436?source=friends_link&sk=c9387e6c7acaa2d8eef76f311325b0c0).
+
+38. [Writing a simple Flask Web Application in 80 lines](https://medium.com/datadriveninvestor/writing-a-simple-flask-web-application-in-80-lines-cb5c386b089a?source=friends_link&sk=61de8a4317170b3fcd27e50b12379e26).
+
+39. [Deep Learning for Iceberg detection in Satellite Images](https://towardsdatascience.com/deep-learning-for-iceberg-detection-in-satellite-images-c667acf4bad0?source=friends_link&sk=f9013927a78d6851bc49adb12c2bf9c5).
+
+40. [Collision Detection Using Quad-Tree Data Structure](https://medium.com/@abhinav.sagar/collision-detection-using-quad-tree-data-structure-ff7f6e8b819?source=friends_link&sk=592df0517a825c130882c51dff42461e).
