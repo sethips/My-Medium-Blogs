@@ -82,3 +82,5 @@ All of my medium blogs at https://medium.com/@abhinav.sagar with friend links at
 39. [Deep Learning for Iceberg detection in Satellite Images](https://towardsdatascience.com/deep-learning-for-iceberg-detection-in-satellite-images-c667acf4bad0?source=friends_link&sk=f9013927a78d6851bc49adb12c2bf9c5).
 
 40. [Collision Detection Using Quad-Tree Data Structure](https://medium.com/@abhinav.sagar/collision-detection-using-quad-tree-data-structure-ff7f6e8b819?source=friends_link&sk=592df0517a825c130882c51dff42461e).
+
+41. [10 Python Tips and Tricks You Should Learn Today](https://towardsdatascience.com/10-python-tips-and-tricks-you-should-learn-today-a05c23a39dc5?source=friends_link&sk=750491dafae8437d37dc0f5b3b1d7f19).
