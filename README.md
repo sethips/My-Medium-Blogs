@@ -84,3 +84,7 @@ All of my medium blogs at https://medium.com/@abhinav.sagar with friend links at
 40. [Collision Detection Using Quad-Tree Data Structure](https://medium.com/@abhinav.sagar/collision-detection-using-quad-tree-data-structure-ff7f6e8b819?source=friends_link&sk=592df0517a825c130882c51dff42461e).
 
 41. [10 Python Tips and Tricks You Should Learn Today](https://towardsdatascience.com/10-python-tips-and-tricks-you-should-learn-today-a05c23a39dc5?source=friends_link&sk=750491dafae8437d37dc0f5b3b1d7f19).
+
+41. [Cryptocurrency Price Prediction Using Deep Learning](https://towardsdatascience.com/cryptocurrency-price-prediction-using-deep-learning-70cfca50dd3a?source=friends_link&sk=331d27e1be556a0803f34b746f505467).
+
+41. [The Easiest Tutorial of Web Scraping on the Internet](https://towardsdatascience.com/the-easiest-tutorial-of-web-scraping-on-the-internet-2439334dc243?source=friends_link&sk=0ca6fa71c765c8b1c6f0db20699f1ccf).
